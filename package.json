@@ -1,0 +1,15 @@
+{
+  "name": "keythereum-error",
+  "version": "1.0.0",
+  "description": "test keythereum async error throws",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keythereum": "git+https://github.com/alexksso/keythereum.git"
+  }
+}
